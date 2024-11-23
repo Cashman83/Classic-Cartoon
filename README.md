@@ -10,6 +10,10 @@ Features
     Stream Compatibility: These playlists are formatted for use with IPTV software and media players like Kodi, VLC, or any M3U-compatible platform.
     Free to Use: All content is publicly available and sourced from platforms like Archive.org.
 
+Live Stream for Centurions is active at - rtmp://152.42.249.99/live/centurions
+
+Have managed to get FFMPEG to talk to the text file. This stream is live and continuous you can view or start your own stream using the m3u. Will work to add some other channels soon.
+
 How to Use
 With VLC Media Player:
 
